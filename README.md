@@ -8,7 +8,7 @@ All Algorithm in C
 - [ ] Data Structure
     - [x] Linked Lists
     - [x] Stacks
-    - [ ] Queues
+    - [x] Queues
     - [ ] Hash table
     - [ ] Tree
 - [ ] Search/Sort
