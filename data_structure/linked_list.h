@@ -1,6 +1,11 @@
 #ifndef LINKED_LIST_H
 #define LINKED_LIST_H
 
+struct Node {
+    int value;
+    struct Node *pNext;
+};
+
 struct Node* initList(int value);
 struct Node* insertNode(struct Node *head, int value);
 struct Node* appendNode(struct Node *oldHead, int value);
